@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./aman-p-ai-banner.png" alt="Aman P - AI Specialist" width="100%">
-</p>
+<img width="2172" height="724" alt="FDF6EE6F-00DC-45AA-B564-E93584B2DDA4" src="https://github.com/user-attachments/assets/fffb6c37-b90b-4dee-9be0-8a957d2bb873" />
+
 
 # 👋 Hi, I'm Aman P
 
