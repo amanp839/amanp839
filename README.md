@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Moosa
 
-<!--
-**amanp839/amanp839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Aspiring AI Engineer | Generative AI | Prompt Engineering
 
-Here are some ideas to get you started:
+I'm a self-driven learner building my skills in Artificial Intelligence and AI Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+
+- Artificial Intelligence
+- Generative AI
+- Prompt Engineering
+- Python
+- Machine Learning Fundamentals
+- AI Tools & Automation
+
+## 🛠️ Skills
+
+- Python
+- Prompt Engineering
+- Generative AI
+- Google Gemini
+- Microsoft Excel
+- Power BI
+- Data Analytics
+
+## 📜 Certifications
+
+- One Million Prompters – Dubai Future Foundation
+- Prompt Engineering – FreeAcademy.ai
+- Gemini Certified Student – University – Google for Education
+
+## 🚀 My Goal
+
+To become an AI Engineer and build practical AI solutions that solve real-world problems.
+
+## 📚 Learning Philosophy
+
+> Learn → Build → Experiment → Improve
+
+I'm documenting my AI learning journey and building projects along the way.
+
+## 🔗 Connect With Me
+
+- LinkedIn: [Aman Moosa](YOUR-LINKEDIN-URL)
