@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman Moosa
+# 👋 Hi, I'm Aman P
 
 ### 🤖 Aspiring AI Engineer | Generative AI | Prompt Engineering
 
