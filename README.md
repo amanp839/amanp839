@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./aman-p-ai-banner.png" alt="Aman P - AI Specialist" width="100%">
+</p>
+
 # 👋 Hi, I'm Aman P
 
 ### 🤖 Aspiring AI Engineer | Generative AI | Prompt Engineering
