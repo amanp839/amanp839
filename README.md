@@ -41,4 +41,4 @@ I'm documenting my AI learning journey and building projects along the way.
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Aman Moosa](YOUR-LINKEDIN-URL)
+- LinkedIn: [Aman P](https://www.linkedin.com/in/aman-p-4a6473439?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
